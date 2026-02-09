@@ -4,11 +4,19 @@ This repository is a (in)complete Eaglercraft file collection made by me. All of
 Files:
 
 1.12.2
+
 1.11
+
 1.9.2
+
 1.8.8
+
 1.5.2
+
 1.7.3
+
 1.3
+
 1.2.6
+
 Indev
